@@ -1,10 +1,10 @@
 ### Hi there 👋, this is Shoeb
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/2747687885/1702125891/1500x500)
+#### I specialize in the MERN stack. Embracing continuous learning, I'm on a mission to contribute to the ever-evolving tech landscape while building a robust foundation for leadership in the software industry.
+![I specialize in the MERN stack. Embracing continuous learning, I'm on a mission to contribute to the ever-evolving tech landscape while building a robust foundation for leadership in the software industry.](https://pbs.twimg.com/profile_banners/2747687885/1702125891/1500x500)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Passionate about web development and aspiring to become a tech lead, I specialize in the MERN stack (MongoDB, Express.js, React, Node.js). With a commitment to crafting efficient and scalable solutions, my journey involves translating innovative ideas into functional and user-friendly applications. Embracing continuous learning, I'm on a mission to contribute to the ever-evolving tech landscape while building a robust foundation for leadership in the software industry.
 
-Skills: REACT / JS / HTML / CSS
+Skills: MongoDB / Express / Node / React / JS / Tailwind / CSS / HTML 
 
 - 🔭 I’m currently working on a personal MERN project 
 - 🌱 I’m currently learning JavaScript 
