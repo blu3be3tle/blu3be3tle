@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Shoeb
-#### I specialize in the MERN stack. Embracing continuous learning, I'm on a mission to contribute to the ever-evolving tech landscape while building a robust foundation for leadership in the software industry.
-![I specialize in the MERN stack. Embracing continuous learning, I'm on a mission to contribute to the ever-evolving tech landscape while building a robust foundation for leadership in the software industry.](https://pbs.twimg.com/profile_banners/2747687885/1702125891/1500x500)
+
+(https://pbs.twimg.com/profile_banners/2747687885/1702125891/1500x500)
 
 Passionate about web development and aspiring to become a tech lead, I specialize in the MERN stack (MongoDB, Express.js, React, Node.js). With a commitment to crafting efficient and scalable solutions, my journey involves translating innovative ideas into functional and user-friendly applications. Embracing continuous learning, I'm on a mission to contribute to the ever-evolving tech landscape while building a robust foundation for leadership in the software industry.
 
