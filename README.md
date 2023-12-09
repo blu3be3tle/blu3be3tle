@@ -13,7 +13,7 @@ Passionate about web development and aspiring to become a tech lead, I specializ
 - 💬 Ask me about Web Application 
 
 ### Reach out to me
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aburaitnshoeb/) [![My Skills](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/aburaitnshoeb/) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/aburaitnshoeb/) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.instagram.com/y0urnarrat0r/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aburaitnshoeb/) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/aburaitnshoeb/) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/y0urnarrat0r/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=be3tle)](https://github.com/anuraghazra/github-readme-stats)
