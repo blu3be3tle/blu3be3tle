@@ -3,7 +3,7 @@
 
 Passionate about web development and aspiring to become a tech lead, I specialize in the MERN stack (MongoDB, Express.js, React, Node.js). With a commitment to crafting efficient and scalable solutions, my journey involves translating innovative ideas into functional and user-friendly applications. Embracing continuous learning, I'm on a mission to contribute to the ever-evolving tech landscape while building a robust foundation for leadership in the software industry.
 
-### Skills: MongoDB / Express / Node / React / JS / Tailwind / CSS / HTML 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,node,react,js,tailwind,css,html,firebase,git)](https://skillicons.dev)
 
 - 🔭 I’m currently working on a personal MERN project 
 - 🌱 I’m currently learning JavaScript 
