@@ -2,7 +2,7 @@
 ![](https://media.licdn.com/dms/image/D5616AQGVnHnaMeiBrQ/profile-displaybackgroundimage-shrink_350_1400/0/1703074345711?e=1708560000&v=beta&t=jg0pCtu9-iU2t6RbdfexPtR5ssmxyuO_pZvTMpzrS6k)
 
 
-MERN stack enthusiast on a mission to level up from coding to leadership. I specialize in building web applications and am determined to become a tech lead. Passionate about turning creative concepts into functional code, I'm always up for collaborative projects and eager to lead dynamic teams in creating meaningful software solutions.
+Frontend enthusiast on a mission to level up from coding to leadership. I specialize in building web applications and am determined to become a tech lead. Passionate about turning creative concepts into functional code, I'm always up for collaborative projects and eager to lead dynamic teams in creating meaningful software solutions.
 
 
 
