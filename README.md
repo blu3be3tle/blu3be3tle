@@ -1,5 +1,6 @@
 
-![](https://pbs.twimg.com/profile_banners/2747687885/1702125891/1500x500)
+![](https://www.linkedin.com/in/aburatinshoeb/overlay/background-image/)
+
 
 MERN stack enthusiast on a mission to level up from coding to leadership. I specialize in building web applications and am determined to become a tech lead. Passionate about turning creative concepts into functional code, I'm always up for collaborative projects and eager to lead dynamic teams in creating meaningful software solutions.
 
