@@ -35,7 +35,7 @@ Frontend enthusiast on a mission to level up from coding to leadership. I specia
 
 # Project#1
 
-# Blad - Blood Donation Website
+# Blad - Blood Donation Platform
 
 Welcome to Blad, a blood donation website designed to streamline the blood donation process, connecting donors, volunteers, and administrators for a more efficient and life-saving experience.
 
