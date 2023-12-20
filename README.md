@@ -10,7 +10,7 @@ Frontend enthusiast on a mission to level up from coding to leadership. I specia
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,react,js,tailwind,css,html,firebase,git)]()
 
 - 🔭 I’m currently working on a personal MERN project 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on open source projects 
 - 💬 Ask me about Web Application 
 
