@@ -25,7 +25,7 @@ Frontend enthusiast on a mission to level up from coding to leadership. I specia
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=be3tle&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=be3tle&show_icons=true&count_private=true&theme=onedark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=be3tle&show_icons=true&count_private=true&theme=nightowl)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com?user=be3tle&theme=nightowl)  
 
