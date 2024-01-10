@@ -1,34 +1,27 @@
 # Hi there 👋, this is Shoeb
+
 ![](https://pbs.twimg.com/profile_banners/2747687885/1702125891/1500x500)
 
 MERN stack enthusiast on a mission to level up from coding to leadership. I specialize in building web applications and am determined to become a tech lead. Passionate about turning creative concepts into functional code, I'm always up for collaborative projects and eager to lead dynamic teams in creating meaningful software solutions.
 
-
-
 ## Technologies I know:
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,react,js,tailwind,css,html,firebase,git)]()
 
-- 🔭 I’m currently working on a personal MERN project 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on open source projects 
-- 💬 Ask me about Web Application 
-
-
+- 🔭 I’m currently working on a personal MERN project
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about Web Application
 
 ## Reach out to me
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aburaitnshoeb/) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/aburaitnshoeb/) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/y0urnarrat0r/)
 
-
-
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=be3tle&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=be3tle&show_icons=true&count_private=true&theme=onedark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=be3tle&show_icons=true&count_private=true&theme=nightowl)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=be3tle&theme=onedark)  
-
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=be3tle&theme=onedark)
 
 ## My Recent Projects
 
@@ -42,12 +35,9 @@ Welcome to Blad, a blood donation website designed to streamline the blood donat
 
 Visit the live site: [Blad - Blood Donation](https://blad-donate.web.app/)
 
-
 ## Backend repository
 
 [Backend repository](https://github.com/Be3tle/blad-mern-server-side.git)
-
-
 
 ## Technologies Used
 
@@ -93,8 +83,6 @@ Blad incorporates a robust user role system, ensuring that each user has specifi
 
 Thank you for using Blad - your contribution can help save lives!
 
-
-
 # Project#2
 
 # boipoka (MERN Stack)
@@ -130,8 +118,6 @@ This website is an online library built using the MERN (MongoDB, Express.js, Rea
   - MongoDB for the database
 
 Feel free to explore the website and enjoy borrowing books from various genres! If you encounter any issues or have suggestions for improvements, please don't hesitate to contribute. Happy reading!
-
-
 
 # Project#3
 
