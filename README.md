@@ -2,7 +2,7 @@
 ![](https://media.licdn.com/dms/image/D5616AQE7Huo_-ZaYbw/profile-displaybackgroundimage-shrink_350_1400/0/1705234451039?e=1710979200&v=beta&t=VJuy31XxKD-JRCDAJksqGYCNvgiSftQFimuny8j92d8)
 
 
-MERN Stack enthusiast on a mission to level up from coding to leadership. I specialize in building web applications. Passionate about turning creative concepts into functional code, I'm always up for collaborative projects and eager to lead dynamic teams in creating meaningful software solutions. Happy Hacking!!!
+MERN Stack enthusiast on a mission to level up from coding to leadership. I specialize in building web applications. Passionate about turning creative concepts into functional code, I'm always up for collaborative projects and eager to lead dynamic teams in creating meaningful software solutions.
 
 
 
