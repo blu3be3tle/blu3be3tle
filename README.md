@@ -10,7 +10,7 @@ MERN Stack enthusiast on a mission to level up from coding to leadership. I spec
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,react,js,tailwind,css,html,firebase,git)]()
 
-- 🔭 I’m currently working on a MERN c application 
+- 🔭 I’m currently working on a MERN  application 
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on open source projects 
 - 💬 Ask me about Web Application 
