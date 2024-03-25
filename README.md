@@ -8,7 +8,7 @@ MERN Stack enthusiast on a mission to level up from coding to leadership. I spec
 
 ## Technologies I know:
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mongoose,express,nodejs,react,js,tailwind,css,html,firebase,git)]()
+[![My Skills](https://skillicons.dev/icons?i=mongodb,redux,express,nodejs,react,js,tailwind,css,html,firebase,git)]()
 
 - 🔭 I’m currently working on a MERN application 
 - 🌱 I’m currently learning JavaScript
