@@ -11,7 +11,7 @@ MERN Stack developer on a mission to level up from coding to leadership. I speci
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Web Application
 
-## Reach out to me
+## Connect with me
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aburaitnshoeb/) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/aburaitnshoeb/) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/y0urnarrat0r/)
 
