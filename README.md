@@ -1,6 +1,6 @@
 ![](https://media.licdn.com/dms/image/v2/D5616AQGroji-AmTx5g/profile-displaybackgroundimage-shrink_350_1400/B56ZX8RA0xHoBA-/0/1743694074900?e=1749081600&v=beta&t=0JriRkGKkJt02JmYJ1IIInfaVoGcJoDkOacnmQvO34U)
 
-MERN Stack developer on a mission to level up from coding to leadership. I specialize in building web applications. Passionate about turning creative concepts into functional code, I'm always up for collaborative projects and eager to lead dynamic teams in creating meaningful software solutions.
+Next.js developer on a mission to level up from coding to leadership. I specialize in building web applications. Passionate about turning creative concepts into functional code, I'm always up for collaborative projects and eager to lead dynamic teams in creating meaningful software solutions.
 
 ## Technologies I know:
 
