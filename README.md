@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/D5616AQFiPi5fj8Va0w/profile-displaybackgroundimage-shrink_350_1400/0/1714301582485?e=1720051200&v=beta&t=gO9pcDxmbhlfwHCbFKrhQgnjpVvzfKg9nWjLa5KBLHk)
+![](https://media.licdn.com/dms/image/v2/D5616AQGroji-AmTx5g/profile-displaybackgroundimage-shrink_350_1400/B56ZX8RA0xHoBA-/0/1743694074900?e=1749081600&v=beta&t=0JriRkGKkJt02JmYJ1IIInfaVoGcJoDkOacnmQvO34U)
 
 MERN Stack developer on a mission to level up from coding to leadership. I specialize in building web applications. Passionate about turning creative concepts into functional code, I'm always up for collaborative projects and eager to lead dynamic teams in creating meaningful software solutions.
 
