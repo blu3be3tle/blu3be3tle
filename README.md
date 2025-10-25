@@ -1,6 +1,6 @@
 ![](https://media.licdn.com/dms/image/v2/D5616AQFsigKEmKVHxw/profile-displaybackgroundimage-shrink_350_1400/B56Zoco489IsAY-/0/1761417074754?e=1762992000&v=beta&t=jDdouf_AdCkeklY0Tdt1TyOOC4LIX_VK-txexrLmvz4)
 
-Full-stack developer (MERN & Django) building web apps and scalable backends, integrating AI, auth flows, and complex data. Passionate about turning ideas into functional software and leading teams to deliver impactful solutions.
+Full-stack developer (Django & MERN) building web apps and scalable backends, integrating AI, auth flows, and complex data. Passionate about turning ideas into functional software and leading teams to deliver impactful solutions.
 
 ## Technologies I know:
 
