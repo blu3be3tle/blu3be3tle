@@ -1,13 +1,13 @@
-![](https://media.licdn.com/dms/image/v2/D5616AQGroji-AmTx5g/profile-displaybackgroundimage-shrink_350_1400/B56ZX8RA0xHoBA-/0/1743694074900?e=1749081600&v=beta&t=0JriRkGKkJt02JmYJ1IIInfaVoGcJoDkOacnmQvO34U)
+![](https://media.licdn.com/dms/image/v2/D5616AQFsigKEmKVHxw/profile-displaybackgroundimage-shrink_350_1400/B56Zoco489IsAY-/0/1761417074754?e=1762992000&v=beta&t=jDdouf_AdCkeklY0Tdt1TyOOC4LIX_VK-txexrLmvz4)
 
-Next.js developer on a mission to level up from coding to leadership. I specialize in building web applications. Passionate about turning creative concepts into functional code, I'm always up for collaborative projects and eager to lead dynamic teams in creating meaningful software solutions.
+Full-stack developer (MERN & Django) building web apps and scalable backends, integrating AI, auth flows, and complex data. Passionate about turning ideas into functional software and leading teams to deliver impactful solutions.
 
 ## Technologies I know:
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,nodejs,react,js,tailwind,css,html,firebase,git)]()
+[![My Skills](https://skillicons.dev/icons?i=python,django,mongodb,express,nodejs,react,postgres,mysql,js,tailwind,supabase,firebase,git,c,cpp,next,linux,vercel,netlify,postman)]()
 
-- 🔭 I’m currently working on a MERN application
-- 🌱 I’m currently learning DSA with C++
+- 🔭 I’m currently working on a Django application
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Web Application
 
