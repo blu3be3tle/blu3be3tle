@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/v2/D5616AQFsigKEmKVHxw/profile-displaybackgroundimage-shrink_350_1400/B56Zoco489IsAY-/0/1761417074754?e=1762992000&v=beta&t=jDdouf_AdCkeklY0Tdt1TyOOC4LIX_VK-txexrLmvz4)
+![](https://media.licdn.com/dms/image/v2/D5616AQFj_wP6nEI6lQ/profile-displaybackgroundimage-shrink_350_1400/B56Zy4ZlwTIkAY-/0/1772620244917?e=1774483200&v=beta&t=dAMQr6mLMeXlUXzp8Q_v4RqfK_FGG4NvCBU9UyhPP_8)
 
 Full-stack developer (Django & MERN) building web apps and scalable backends, integrating AI, auth flows, and complex data. Passionate about turning ideas into functional software and leading teams to deliver impactful solutions.
 
