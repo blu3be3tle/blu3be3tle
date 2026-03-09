@@ -18,7 +18,7 @@ Full-stack software developer (Python & MERN) building web apps and scalable bac
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,materialui)]()
 
 ### DevOps / Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,githubactions,git,github,sentry,postman,linux,ubuntu)]()
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,githubactions,git,github,sentry,postman,linux,ubuntu,vercel,netlify,vite,npm,yarn)]()
 
 
 
