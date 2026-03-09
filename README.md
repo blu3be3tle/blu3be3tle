@@ -29,7 +29,7 @@ Full-stack software developer (Python & MERN) building web apps and scalable bac
 
 ## Connect with me
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aburaitnshoeb/) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/aburaitnshoeb/) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/y0urnarrat0r/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aburatnshoeb/) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/aburatnshoeb/) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/deniggalizer.cpp/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blu3be3tle&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
