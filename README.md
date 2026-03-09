@@ -4,9 +4,25 @@ Full-stack software developer (Python & MERN) building web apps and scalable bac
 
 ## Technologies I know:
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,mongodb,express,nodejs,react,postgres,mysql,js,tailwind,supabase,firebase,git,c,cpp,next,linux,vercel,netlify,postman)]()
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp)]()
 
-- 🔭 I’m currently working on a Django application
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=fastapi,django,express,nodejs,supabase,firebase,)]()
+
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongo,mysql,sqlite)]()
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,materialui)]()
+
+### DevOps / Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,githubactions,git,github,sentry,postman,linux,ubuntu)]()
+
+
+
+- 🔭 I’m currently working on a Python application
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Web Application
