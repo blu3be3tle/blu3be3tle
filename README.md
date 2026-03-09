@@ -8,7 +8,7 @@ Full-stack software developer (Python & MERN) building web apps and scalable bac
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp)]()
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=fastapi,django,express,nodejs,supabase,firebase,)]()
+[![My Skills](https://skillicons.dev/icons?i=fastapi,django,express,nodejs,supabase,firebase)]()
 
 
 ### Databases
