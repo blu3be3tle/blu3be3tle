@@ -1,6 +1,6 @@
 ![](https://pbs.twimg.com/profile_banners/2747687885/1772620377/1500x500)
 
-Full-stack software developer (Python & MERN) building web apps and scalable backends, integrating AI, auth flows, and complex data. Passionate about turning ideas into functional software and leading teams to deliver impactful solutions.
+Backend-focused Software Engineer (Python & MERN) building web apps and scalable backends, integrating AI, auth flows, and complex data. Passionate about turning ideas into functional software and leading teams to deliver impactful solutions.
 
 ## Technologies I know:
 
